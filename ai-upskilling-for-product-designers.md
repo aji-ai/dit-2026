@@ -40,7 +40,39 @@ One important thing to internalize: **an S-Steward at SAE L1 (someone who's buil
 
 ---
 
-# Step 1: Find Your SAE Level
+# Step 1: Find Your Learning Maturity Stage At Your SAE Level
+
+We start with a generic maturity progression for a learner. HT Monty Hammontree for his advice on this instrument that I changed a teense to create the catchy acronym E-P-I-A-S.
+
+## Learner Maturity Stages As E-P-I-A-S
+
+| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
+| --- | --- | --- | --- | --- |
+| Trying things; learning basics | Building consistent habits | Making it part of workflow | Building systems others use | Setting standards; teaching others |
+
+You naturally progress ❶ E → ❷ P → ❸ I → ❹ A → ❺ S. Let's apply this to the conventional non-AI product designer's progression in skillsets.
+
+## Non-AI Product Designer Skillset Progression
+
+| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
+| --- | --- | --- | --- | --- |
+| Learning design fundamentals; quality varies, needs guidance | Consistent design process; repeatable methods and quality checks | Design embedded end-to-end in product development; clear rationale and validation | Building design systems, processes, and frameworks that others adopt | Setting organizational design standards; mentoring designers; maintaining shared systems |
+
+This bears a parallel to the career progression "ladder" in product design today.
+
+## Conventional Product Design Career Progression
+
+| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
+| --- | --- | --- | --- | --- |
+| Junior Designer | Designer/Mid-level | Senior Designer | Staff/Principal Designer | Director/Design Lead |
+
+Keep in mind that a director or lead can still behave like an "Explorer" by having a beginner's mind. Right? They truly need to have that right now in the age of AI.
+
+Do you get the idea of E-P-I-A-S? Awesome! Now locate your SAE level of operating in the AI era, and situate the stage you might be in right now.
+
+---
+
+# Step 2: Find Your SAE Level
 
 ## SAE Levels of Driving Automation (SAEJ3016 est 2014)
 
@@ -121,38 +153,6 @@ L5 — You own the AI's goals.
 | **SAE L5** <br/>Full Autonomy <br/>🚗✨ | "AI runs most of the workflow by default and self-corrects; I set the goals, constraints, quality bar, and approval gates, then review outcomes and exceptions." | Aspirational, not yet real |
 
 Note: L2, L3, and L4 tooling is getting blurrier every day as systems vertically absorb each other's capabilities. The boundaries are about responsibility, not features. Hybrid design↔code canvas tools typically live at SAE L2, and only enter SAE L3 when embedded into persistent IDE workflows (e.g., Pencil.dev driving Claude Code inside a repo, Cursor visual editor modifying real code, etc.).
-
----
-
-# Step 2: Find Your E-P-I-A-S Maturity Stage At Your SAE Level
-
-We start with a generic maturity progression for a learner. HT Monty Hammontree for his advice on this instrument that I changed a teense to create the catchy acronym E-P-I-A-S.
-
-## Learner Maturity Stages As E-P-I-A-S
-
-| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
-| --- | --- | --- | --- | --- |
-| Trying things; learning basics | Building consistent habits | Making it part of workflow | Building systems others use | Setting standards; teaching others |
-
-You naturally progress ❶ E → ❷ P → ❸ I → ❹ A → ❺ S. Let's apply this to the conventional non-AI product designer's progression in skillsets.
-
-## Non-AI Product Designer Skillset Progression
-
-| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
-| --- | --- | --- | --- | --- |
-| Learning design fundamentals; quality varies, needs guidance | Consistent design process; repeatable methods and quality checks | Design embedded end-to-end in product development; clear rationale and validation | Building design systems, processes, and frameworks that others adopt | Setting organizational design standards; mentoring designers; maintaining shared systems |
-
-This bears a parallel to the career progression "ladder" in product design today.
-
-## Conventional Product Design Career Progression
-
-| ❶ E: Explorer | ❷ P: Practitioner | ❸ I: Integrator | ❹ A: Architect | ❺ S: Steward |
-| --- | --- | --- | --- | --- |
-| Junior Designer | Designer/Mid-level | Senior Designer | Staff/Principal Designer | Director/Design Lead |
-
-Keep in mind that a director or lead can still behave like an "Explorer" by having a beginner's mind. Right? They truly need to have that right now in the age of AI.
-
-Do you get the idea of E-P-I-A-S? Awesome! Now locate your SAE level of operating in the AI era, and situate the stage you might be in right now.
 
 ---
 
@@ -240,7 +240,7 @@ New hybrid design↔code canvas tools (Lovable, MagicPath, Pencil.dev, v0, Bolt,
 
 **Responsibility:** You own the checkpoints. Work spans time, not just prompts.
 
-**Why the IDE matters now:** This is where designers cross the threshold into being able to ship real PRs. The IDE isn't just "advanced tooling." It's where context persists across sessions, where you can run multi-step workflows, and where the code actually lives. Today, Cursor/VS Code + Copilot/Windsurf are the environments where this responsibility shift happens. This may evolve as app-builders mature, but right now the IDE is the gate.
+**Why the IDE matters now:** This is where designers cross the threshold into being able to ship real PRs. The IDE isn't just "advanced tooling." It's where context persists across sessions, where you can run multi-step workflows, and where the code actually lives. Today, Cursor/VS Code + GitHub Copilot are the environments where this responsibility shift happens. This may evolve as app-builders mature, but right now the IDE is the gate.
 
 | E: Explorer ❶→ | P: Practitioner ❷→ | I: Integrator ❸→ | A: Architect ❹→ | S: Steward →❺ |
 | --- | --- | --- | --- | --- |
