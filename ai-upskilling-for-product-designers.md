@@ -349,18 +349,6 @@ Do you feel a little better now? I hope so! I spent three weekends working on th
 
 # Appendix: Gameboard Version
 
-## E-P-I-A-S at Each SAE Level
-
-Ah — yes, that’s a really strong visual instinct.
-
-When the **square sits on its own line**, it stops feeling like a checkbox and starts feeling like a **node you pass through**. That reinforces the “draw your path” idea beautifully.
-
-Below is the revised gameboard table where each square is visually separated and leaves clear room for drawing a line across.
-
----
-
-# Appendix: Gameboard Version
-
 **How to use this board**
 
 Draw a continuous line through the squares that represent your real journey. Move right (maturity) or up/down (autonomy). There is no single correct path.
